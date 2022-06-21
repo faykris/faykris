@@ -8,7 +8,7 @@ My name is Cristian, I'm from Colombia and I'm a Full Stack developer. Totally i
 
 ## Skills 🧠
 * HTML5, CSS3, Bootstrap
-* Python (Flask)
+* Python (Flask, Jinja)
 * MySQL, MongoDB
 * Javascript (vanilla), jQuery
 * NodeJS (express, mongoose, PM2)
