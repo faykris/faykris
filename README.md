@@ -1,5 +1,5 @@
 # Hello 👋
-My name is Cristian, I'm from Colombia and I'm a Full Stack developer in progress. Totally interested in a job opportunity.
+My name is Cristian, I'm from Colombia and I'm a Full Stack developer. Totally interested in a job opportunity.
 
 * Currently studing at Holberton School, in this moment learning Node skills (express, mongoose, react, mocha and others).
 * In the Holberton folders of this profile is the evidence of my learning since the beginning of 2021 (knowledges in Linux, C, Python, Javascript).
