@@ -48,7 +48,7 @@ Currently, I'm learning about:
 # Contact Me📲
 - **Correo**: faykris28@gmail.com
 - **LinkedIn**: [linkedin.com/in/cristian-pinzon28](https://www.linkedin.com/in/cristian-pinzon28)
-- **Twitter**: [twitter.com/tu-usuario](https://twitter.com/faykris)
+- **X**: [twitter.com/faykris](https://twitter.com/faykris)
 
 - ---
 
