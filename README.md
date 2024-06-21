@@ -15,7 +15,7 @@
 - **Version Control**: Git, GitHub, GitLab
 - **Others**: AWS (Amplify), Firebase, Tailwind, Bootstrap, Jira
 
-### 📚 Proyectos Destacados
+### 📚 Featured Projects
 
 #### [Project 1: My Social Media](https://github.com/faykris/my-social-media-front)
 - **Description**: A mini version of a social media similar to Facebook and X.
@@ -35,7 +35,7 @@
 - **Characteristics**: Use native JavaScript.
 - **Deployed site**: [Rock, Paper and Scissors Game](https://rock-paper-scissors-game-faykris.vercel.app)
 
-#### [More projects are in My Portfolio](https://github.com/faykris/my-portfolio-react)
+### 📚 [More projects are in My Portfolio](https://github.com/faykris/my-portfolio-react)
 - **Deployed site**: [My Portfolio](https://faykris-portfolio.netlify.app)
 
 ### 🌱 Learning
