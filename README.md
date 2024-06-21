@@ -45,7 +45,7 @@ Currently, I'm learning about:
 - **Mobile App Development**: React Native
 - **Websites Improvement in React Projects**: Next.js
 
-# Contact Me📲
+## 📲 Contact Me
 - **Correo**: faykris28@gmail.com
 - **LinkedIn**: [linkedin.com/in/cristian-pinzon28](https://www.linkedin.com/in/cristian-pinzon28)
 - **X**: [twitter.com/faykris](https://twitter.com/faykris)
