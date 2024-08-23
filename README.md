@@ -9,8 +9,9 @@
 
 ### 🛠️ Technologies and Tools
 
+- **Programming Languages**: JavaScript, Python, C#, Java
 - **Frontend**: React, Angular, Vanilla, Vue
-- **Backend**: Nest, Node.js, Express, Hapi, Knex
+- **Backend**: Nest, Node.js, Express, Hapi, Knex, ASP .NET, Springboot
 - **Databases**: MongoDB, PostgreSQL, MySQL, SQL Server, DB2
 - **Version Control**: Git, GitHub, GitLab
 - **Others**: AWS (Amplify), Firebase, Tailwind, Bootstrap, Jira
